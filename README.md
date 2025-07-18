@@ -1,40 +1,66 @@
-# TechFact Galaxy
 
-**100 Surprising Facts from the Digital Universe**
+# 🚀 TechFact Galaxy – GenAI 101 Capstone Project
 
-A visually stunning, responsive, and accessible single-page web app that displays random, categorized tech fun facts. Built for the GenAI 101 Workshop using only HTML, CSS, and JavaScript.
+Welcome to **TechFact Galaxy!**  
+This is a visually stunning, interactive web app that displays 100+ fun, surprising, and educational tech facts across 30+ categories – all at the click of a button.  
+Built as a capstone for the **GenAI 101 with Pieces** workshop, this project demonstrates the power of generative AI, prompt engineering, and modern web development.
 
-## 🚀 Features
+---
 
-- 100 unique, categorized tech facts (with emoji and adaptive color themes)
-- Responsive, mobile-first design
-- Copy fact to clipboard
-- Share fact on Twitter
-- Smooth animations and modern UI
-- Accessible (ARIA, keyboard navigation, high contrast)
-- Easy to deploy on GitHub Pages
+## 🌟 Project Overview
 
-## 🖥️ Live Demo
+**TechFact Galaxy** is a single-page web app that lets users discover amazing technology facts, categorized and color-themed for a delightful experience.  
+Whether you're curious about programming, gadgets, history, cybersecurity, or women in tech, this project brings fun facts to life with a polished, responsive UI.
 
-[Your GitHub Pages Link Here]
+---
 
-## 📦 How to Use
+## 🧰 Features
 
-1. Clone/download the repo.
-2. Open `index.html` in your browser.
-3. Click "Show Me Another Fact!" to see a new random fact.
-4. Use the Copy or Tweet buttons to share your favorite facts!
+- **100+ Unique, Curated Tech Facts:**  
+  Covering 30+ categories like Programming, Hardware, Gadgets, Cybersecurity, AI, History, Web, Mobile, and more.
 
-## 🛠️ Tech Stack
+- **Category Theming:**  
+  Fact card and badge colors adapt based on category for instant visual feedback.
 
-- HTML5
-- CSS3 (with Google Fonts)
-- Vanilla JavaScript
+- **SVG Iconography:**  
+  Each category uses a crisp SVG icon for modern, professional visuals.
 
-## 👤 Author
+- **Copy & Share:**  
+  Copy any fact to your clipboard, or share directly to X (Twitter) and LinkedIn.
 
-Made with ❤️ for GenAI 101 Workshop by [Your Name]
+- **Beautiful, Responsive UI:**  
+  Mobile-first design, glassmorphism, and subtle animations for a modern look.
 
-## 📄 License
+- **Accessible & Usable:**  
+  High contrast, ARIA labels, keyboard navigation, and responsive font sizes.
 
-MIT
+---
+
+## 📋 How to Use
+
+1. Open `Index.html` in your browser.
+2. Click **Show Me Another Fact!** to see new facts.
+3. Use the **Copy** or **Tweet** buttons to share your favorite fact.
+4. Enjoy category-based colors and SVG icons for each fact.
+
+---
+
+## 🗂️ Project Structure
+
+- `Index.html` – Main HTML file
+- `style.css` – Stylesheet
+- `script.js` – JavaScript logic
+- `README.md` – Project documentation
+- `DOCS.md` – Technical documentation
+
+---
+
+## 🧑‍💻 GenAI 101 with Pieces Workshop
+
+This project was created as a capstone for the GenAI 101 workshop, showcasing generative AI techniques, prompt engineering, and the basics of creating an interactive app with HTML, CSS, and JavaScript.
+
+---
+
+## 🙌 Credits
+
+Made with ❤️ for GenAI 101 Workshop by [Vansh Gupta](https://www.linkedin.com/in/vanshdigitals/)
