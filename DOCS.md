@@ -35,7 +35,7 @@ It demonstrates prompt engineering, AI-assisted dataset creation, and frontend d
 
 ## App Structure
 
-/
+/<br>
 ├── index.html # HTML skeleton (semantic, accessible) <br>
 ├── style.css # Responsive, adaptive CSS (modern UI, variables, animations) <br>
 ├── script.js # Fact logic, color theming, copy/share logic, accessibility <br>
