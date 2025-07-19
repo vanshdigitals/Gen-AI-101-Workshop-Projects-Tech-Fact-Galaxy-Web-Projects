@@ -36,10 +36,10 @@ It demonstrates prompt engineering, AI-assisted dataset creation, and frontend d
 ## App Structure
 
 /
-├── index.html # HTML skeleton (semantic, accessible)
-├── style.css # Responsive, adaptive CSS (modern UI, variables, animations)
-├── script.js # Fact logic, color theming, copy/share logic, accessibility
-├── README.md # Project overview, features, credits
+├── index.html # HTML skeleton (semantic, accessible) <br>
+├── style.css # Responsive, adaptive CSS (modern UI, variables, animations) <br>
+├── script.js # Fact logic, color theming, copy/share logic, accessibility <br>
+├── README.md # Project overview, features, credits <br>
 ├── docs.md # Developer notes (this file)
 
 yaml
